@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="asusaludModelStoreContainer" CdmEntityContainer="asusaludEntities">
+    <EntitySetMapping Name="datos_horario3">
+      <EntityTypeMapping TypeName="asusaludModel.datos_horario3">
+        <MappingFragment StoreEntitySet="datos_horario3">
+          <ScalarProperty Name="id_horario" ColumnName="id_horario" />
+          <ScalarProperty Name="id_medico" ColumnName="id_medico" />
+          <ScalarProperty Name="hora_inicio" ColumnName="hora_inicio" />
+          <ScalarProperty Name="hora_final" ColumnName="hora_final" />
+          <ScalarProperty Name="dia" ColumnName="dia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="controles">
+      <EntityTypeMapping TypeName="asusaludModel.controles">
+        <MappingFragment StoreEntitySet="controles">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="control" ColumnName="control" />
+          <ScalarProperty Name="idioma_id" ColumnName="idioma_id" />
+          <ScalarProperty Name="formulario_id" ColumnName="formulario_id" />
+          <ScalarProperty Name="texto" ColumnName="texto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="formulario">
+      <EntityTypeMapping TypeName="asusaludModel.formulario">
+        <MappingFragment StoreEntitySet="formulario">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="url" ColumnName="url" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="idioma">
+      <EntityTypeMapping TypeName="asusaludModel.idioma">
+        <MappingFragment StoreEntitySet="idioma">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="terminacion" ColumnName="terminacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="agenda_medico">
+      <EntityTypeMapping TypeName="asusaludModel.agenda_medico">
+        <MappingFragment StoreEntitySet="agenda_medico">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="medico_id" ColumnName="medico_id" />
+          <ScalarProperty Name="fecha_inicio" ColumnName="fecha_inicio" />
+          <ScalarProperty Name="fecha_fin" ColumnName="fecha_fin" />
+          <ScalarProperty Name="usuario_id" ColumnName="usuario_id" />
+          <ScalarProperty Name="nombre_medico" ColumnName="nombre_medico" />
+          <ScalarProperty Name="especialidad" ColumnName="especialidad" />
+          <ScalarProperty Name="apellido_medico" ColumnName="apellido_medico" />
+          <ScalarProperty Name="session" ColumnName="session" />
+          <ScalarProperty Name="last_modified" ColumnName="last_modified" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cita_medicas">
+      <EntityTypeMapping TypeName="asusaludModel.cita_medicas">
+        <MappingFragment StoreEntitySet="cita_medicas">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="id_medico" ColumnName="id_medico" />
+          <ScalarProperty Name="nombre_medico" ColumnName="nombre_medico" />
+          <ScalarProperty Name="apellido_medico" ColumnName="apellido_medico" />
+          <ScalarProperty Name="especialidad" ColumnName="especialidad" />
+          <ScalarProperty Name="hora_inicio" ColumnName="hora_inicio" />
+          <ScalarProperty Name="hora_fin" ColumnName="hora_fin" />
+          <ScalarProperty Name="id_paciente" ColumnName="id_paciente" />
+          <ScalarProperty Name="nombre_paciente" ColumnName="nombre_paciente" />
+          <ScalarProperty Name="estado_cita" ColumnName="estado_cita" />
+          <ScalarProperty Name="documento" ColumnName="documento" />
+          <ScalarProperty Name="apellido_paciente" ColumnName="apellido_paciente" />
+          <ScalarProperty Name="session" ColumnName="session" />
+          <ScalarProperty Name="last_modified" ColumnName="last_modified" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="especialidades">
+      <EntityTypeMapping TypeName="asusaludModel.especialidades">
+        <MappingFragment StoreEntitySet="especialidades">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="session" ColumnName="session" />
+          <ScalarProperty Name="last_modified" ColumnName="last_modified" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="historia_clinica">
+      <EntityTypeMapping TypeName="asusaludModel.historia_clinica">
+        <MappingFragment StoreEntitySet="historia_clinica">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre_paciente" ColumnName="nombre_paciente" />
+          <ScalarProperty Name="documento_paciente" ColumnName="documento_paciente" />
+          <ScalarProperty Name="motivo_consulta" ColumnName="motivo_consulta" />
+          <ScalarProperty Name="alergias" ColumnName="alergias" />
+          <ScalarProperty Name="cirugias" ColumnName="cirugias" />
+          <ScalarProperty Name="altura" ColumnName="altura" />
+          <ScalarProperty Name="peso" ColumnName="peso" />
+          <ScalarProperty Name="observacion_piel" ColumnName="observacion_piel" />
+          <ScalarProperty Name="observacion_respiracion" ColumnName="observacion_respiracion" />
+          <ScalarProperty Name="observacion_boca" ColumnName="observacion_boca" />
+          <ScalarProperty Name="diagnostico" ColumnName="diagnostico" />
+          <ScalarProperty Name="apellido_paciente" ColumnName="apellido_paciente" />
+          <ScalarProperty Name="nombre_medico" ColumnName="nombre_medico" />
+          <ScalarProperty Name="especialidad" ColumnName="especialidad" />
+          <ScalarProperty Name="apellido_medico" ColumnName="apellido_medico" />
+          <ScalarProperty Name="id_medico" ColumnName="id_medico" />
+          <ScalarProperty Name="id_paciente" ColumnName="id_paciente" />
+          <ScalarProperty Name="fecha_atencion" ColumnName="fecha_atencion" />
+          <ScalarProperty Name="asignar_especialista" ColumnName="asignar_especialista" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="session" ColumnName="session" />
+          <ScalarProperty Name="last_modified" ColumnName="last_modified" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="auditoria">
+      <EntityTypeMapping TypeName="asusaludModel.auditoria">
+        <MappingFragment StoreEntitySet="auditoria">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="accion" ColumnName="accion" />
+          <ScalarProperty Name="schema" ColumnName="schema" />
+          <ScalarProperty Name="tabla" ColumnName="tabla" />
+          <ScalarProperty Name="session" ColumnName="session" />
+          <ScalarProperty Name="user_bd" ColumnName="user_bd" />
+          <ScalarProperty Name="data" ColumnName="data" />
+          <ScalarProperty Name="pk" ColumnName="pk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="autenication">
+      <EntityTypeMapping TypeName="asusaludModel.autenication">
+        <MappingFragment StoreEntitySet="autenication">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="ip" ColumnName="ip" />
+          <ScalarProperty Name="mac" ColumnName="mac" />
+          <ScalarProperty Name="fecha_inicio" ColumnName="fecha_inicio" />
+          <ScalarProperty Name="session" ColumnName="session" />
+          <ScalarProperty Name="fecha_fin" ColumnName="fecha_fin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="roles">
+      <EntityTypeMapping TypeName="asusaludModel.roles">
+        <MappingFragment StoreEntitySet="roles">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="seguridad">
+      <EntityTypeMapping TypeName="asusaludModel.seguridad">
+        <MappingFragment StoreEntitySet="seguridad">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="cantidad_sesiones" ColumnName="cantidad_sesiones" />
+          <ScalarProperty Name="sesiones_activas" ColumnName="sesiones_activas" />
+          <ScalarProperty Name="intentos_erroneos" ColumnName="intentos_erroneos" />
+          <ScalarProperty Name="maximo_intentos" ColumnName="maximo_intentos" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="session" ColumnName="session" />
+          <ScalarProperty Name="last_modified" ColumnName="last_modified" />
+          <ScalarProperty Name="fecha_bloqueo" ColumnName="fecha_bloqueo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="token_repureacion_usuario">
+      <EntityTypeMapping TypeName="asusaludModel.token_repureacion_usuario">
+        <MappingFragment StoreEntitySet="token_repureacion_usuario">
+          <ScalarProperty Name="fecha_vigencia" ColumnName="fecha_vigencia" />
+          <ScalarProperty Name="fecha_creado" ColumnName="fecha_creado" />
+          <ScalarProperty Name="token" ColumnName="token" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usuarios">
+      <EntityTypeMapping TypeName="asusaludModel.usuarios">
+        <MappingFragment StoreEntitySet="usuarios">
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="foto" ColumnName="foto" />
+          <ScalarProperty Name="especialidad" ColumnName="especialidad" />
+          <ScalarProperty Name="last_modified" ColumnName="last_modified" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="session" ColumnName="session" />
+          <ScalarProperty Name="id_rol" ColumnName="id_rol" />
+          <ScalarProperty Name="clave" ColumnName="clave" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="identificacion" ColumnName="identificacion" />
+          <ScalarProperty Name="nombres" ColumnName="nombres" />
+          <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="estados_pacientes">
+      <EntityTypeMapping TypeName="asusaludModel.estados_pacientes">
+        <MappingFragment StoreEntitySet="estados_pacientes">
+          <ScalarProperty Name="apellido_paciente" ColumnName="apellido_paciente" />
+          <ScalarProperty Name="estado_cita" ColumnName="estado_cita" />
+          <ScalarProperty Name="identificacion_paciente" ColumnName="identificacion_paciente" />
+          <ScalarProperty Name="nombre_paciente" ColumnName="nombre_paciente" />
+          <ScalarProperty Name="id_usuario" ColumnName="id_usuario" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="estados_medicos">
+      <EntityTypeMapping TypeName="asusaludModel.estados_medicos">
+        <MappingFragment StoreEntitySet="estados_medicos">
+          <ScalarProperty Name="horas_semana" ColumnName="horas_semana" />
+          <ScalarProperty Name="especialidad" ColumnName="especialidad" />
+          <ScalarProperty Name="estado_horario" ColumnName="estado_horario" />
+          <ScalarProperty Name="estado_agenda" ColumnName="estado_agenda" />
+          <ScalarProperty Name="apellido_medico" ColumnName="apellido_medico" />
+          <ScalarProperty Name="nombre_medico" ColumnName="nombre_medico" />
+          <ScalarProperty Name="ident_medico" ColumnName="ident_medico" />
+          <ScalarProperty Name="id_medico" ColumnName="id_medico" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="parametros">
+      <EntityTypeMapping TypeName="asusaludModel.parametros">
+        <MappingFragment StoreEntitySet="parametros">
+          <ScalarProperty Name="last_modified" ColumnName="last_modified" />
+          <ScalarProperty Name="session" ColumnName="session" />
+          <ScalarProperty Name="valor" ColumnName="valor" />
+          <ScalarProperty Name="llave" ColumnName="llave" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pqrs">
+      <EntityTypeMapping TypeName="asusaludModel.pqrs">
+        <MappingFragment StoreEntitySet="pqrs">
+          <ScalarProperty Name="last_modified" ColumnName="last_modified" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="id_usuario" ColumnName="id_usuario" />
+          <ScalarProperty Name="session" ColumnName="session" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+          <ScalarProperty Name="nombres" ColumnName="nombres" />
+          <ScalarProperty Name="responder_mensaje" ColumnName="responder_mensaje" />
+          <ScalarProperty Name="mensaje" ColumnName="mensaje" />
+          <ScalarProperty Name="tipo_mensaje" ColumnName="tipo_mensaje" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="servicios_seguridad">
+      <EntityTypeMapping TypeName="asusaludModel.servicios_seguridad">
+        <MappingFragment StoreEntitySet="servicios_seguridad">
+          <ScalarProperty Name="token_seguridad" ColumnName="token_seguridad" />
+          <ScalarProperty Name="fecha_vigencia" ColumnName="fecha_vigencia" />
+          <ScalarProperty Name="token_generado" ColumnName="token_generado" />
+          <ScalarProperty Name="clave_cliente" ColumnName="clave_cliente" />
+          <ScalarProperty Name="nombre_cliente" ColumnName="nombre_cliente" />
+          <ScalarProperty Name="id_cliente" ColumnName="id_cliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

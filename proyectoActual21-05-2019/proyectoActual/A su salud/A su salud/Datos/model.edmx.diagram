@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b24387ec6a5f49b093c4c4fb824e16f8" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="asusaludModel.datos_horario3" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="asusaludModel.controles" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="asusaludModel.formulario" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="asusaludModel.idioma" Width="1.5" PointX="0.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="asusaludModel.agenda_medico" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="asusaludModel.cita_medicas" Width="1.5" PointX="2.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="asusaludModel.especialidades" Width="1.5" PointX="9.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="asusaludModel.historia_clinica" Width="1.5" PointX="4.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="asusaludModel.auditoria" Width="1.5" PointX="9.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="asusaludModel.autenication" Width="1.5" PointX="6.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="asusaludModel.roles" Width="1.5" PointX="2.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="asusaludModel.seguridad" Width="1.5" PointX="11.75" PointY="6.75" IsExpanded="true" />
+        <AssociationConnector Association="asusaludModel.controles_formulario_id_fkey" ManuallyRouted="false" />
+        <AssociationConnector Association="asusaludModel.controles_idioma_id_fkey" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="asusaludModel.token_repureacion_usuario" Width="1.5" PointX="7.25" PointY="16.875" />
+        <EntityTypeShape EntityType="asusaludModel.usuarios" Width="1.5" PointX="5" PointY="16" />
+        <AssociationConnector Association="asusaludModel.fk_roles_usuarios" />
+        <AssociationConnector Association="asusaludModel.fk_usuarios_token" />
+        <EntityTypeShape EntityType="asusaludModel.estados_pacientes" Width="1.5" PointX="5.375" PointY="4.75" />
+        <EntityTypeShape EntityType="asusaludModel.estados_medicos" Width="1.5" PointX="9.125" PointY="11.5" />
+        <EntityTypeShape EntityType="asusaludModel.parametros" Width="1.5" PointX="11.375" PointY="11.75" />
+        <EntityTypeShape EntityType="asusaludModel.pqrs" Width="1.5" PointX="12.375" PointY="0.75" />
+        <EntityTypeShape EntityType="asusaludModel.servicios_seguridad" Width="1.5" PointX="13.375" PointY="10.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

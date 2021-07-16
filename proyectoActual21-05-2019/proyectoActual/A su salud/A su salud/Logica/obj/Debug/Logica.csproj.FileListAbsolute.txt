@@ -1,0 +1,380 @@
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\jevg9\OneDrive\Documentos\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\Juan Rodriguez\Downloads\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.dll.config
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\EntityFramework.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Memory.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.dll.config
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\EntityFramework.xml
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Memory.xml
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.dll.config
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\EntityFramework.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Memory.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.dll.config
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\EntityFramework.xml
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Memory.xml
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.dll.config
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\EntityFramework.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Memory.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.dll.config
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\EntityFramework.xml
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Memory.xml
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\jevg9\OneDrive\Escritorio\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.dll.config
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Memory.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Datos.dll.config
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Memory.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\susalud18-03-2019\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.dll.config
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Memory.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.dll.config
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Memory.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.dll.config
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\EntityFramework.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Memory.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.dll.config
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\EntityFramework.xml
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Memory.xml
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.dll.config
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\EntityFramework.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Memory.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.dll.config
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\EntityFramework.xml
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Memory.xml
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\jevg9\OneDrive\Escritorio\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.dll.config
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Logica.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Utilitarios.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Memory.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\netstandard.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Datos.dll.config
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.pdb
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\Npgsql.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Memory.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.dll
+C:\Users\Toshiba\Desktop\Personal\IngSoftware\IngSoftware2019-1\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Logica\obj\Debug\Logica.pdb

@@ -1,0 +1,2 @@
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\WebServiceAsuSalud\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\WebServiceAsuSalud\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache

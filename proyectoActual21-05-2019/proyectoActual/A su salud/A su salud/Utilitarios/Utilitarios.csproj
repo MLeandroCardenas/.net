@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EC738134-9ABF-466B-9334-AB75267B56C9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Utilitarios</RootNamespace>
+    <AssemblyName>Utilitarios</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Correo.cs" />
+    <Compile Include="Eusuarios.cs" />
+    <Compile Include="E_Agenda.cs" />
+    <Compile Include="E_DatosHorario.cs" />
+    <Compile Include="E_diasemana.cs" />
+    <Compile Include="E_diasSemana.cs" />
+    <Compile Include="UP_Acceso.cs" />
+    <Compile Include="UP_Auditoria.cs" />
+    <Compile Include="UP_Autenticacion.cs" />
+    <Compile Include="UP_datos_horario.cs" />
+    <Compile Include="UP_Especialidades.cs" />
+    <Compile Include="UP_estados.cs" />
+    <Compile Include="UP_estados_pacientes.cs" />
+    <Compile Include="UP_Historia_Clinica.cs" />
+    <Compile Include="UP_parametros.cs" />
+    <Compile Include="UP_Pqr.cs" />
+    <Compile Include="UP_Seguridad.cs" />
+    <Compile Include="UP_TokenRecuperacion.cs" />
+    <Compile Include="UP_Usuarios.cs" />
+    <Compile Include="U_AgendaMedico.cs" />
+    <Compile Include="U_BP_ESTUDIANTES.cs" />
+    <Compile Include="U_CitasMedicas.cs" />
+    <Compile Include="U_ControlesIdiomas.cs" />
+    <Compile Include="U_DatosMedicoActualizar.cs" />
+    <Compile Include="U_datosRemitir.cs" />
+    <Compile Include="U_datosRemitirPaciente.cs" />
+    <Compile Include="U_EstadosPacientes.cs" />
+    <Compile Include="U_Formularios.cs" />
+    <Compile Include="U_foto.cs" />
+    <Compile Include="U_Idioma.cs" />
+    <Compile Include="U_pqrs.cs" />
+    <Compile Include="U_retornoEspecialista.cs" />
+    <Compile Include="U_SCA_SEDES.cs" />
+    <Compile Include="U_SCA_TOP.cs" />
+    <Compile Include="U_seguridad_cliente.cs" />
+    <Compile Include="U_TokensClientes.cs" />
+    <Compile Include="U_Usuario.cs" />
+    <Compile Include="infoMedicos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>infoMedicos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Mac.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="U_DatosUser.cs" />
+    <Compile Include="U_usuarioEspecialista.cs" />
+    <Compile Include="U_Usuarios_DPelos.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="infoMedicos.xsc">
+      <DependentUpon>infoMedicos.xsd</DependentUpon>
+    </None>
+    <None Include="infoMedicos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>infoMedicos.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="infoMedicos.xss">
+      <DependentUpon>infoMedicos.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

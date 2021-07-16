@@ -1,0 +1,14 @@
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\WebServiceAsuSalud\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\WebServiceAsuSalud\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\obj\Debug\Utilitarios.pdb

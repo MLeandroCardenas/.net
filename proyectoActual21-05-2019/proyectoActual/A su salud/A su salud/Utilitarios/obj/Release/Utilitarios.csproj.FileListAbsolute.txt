@@ -1,0 +1,36 @@
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\JuanPC\Documents\Asusalud\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.pdb
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\jevg9\OneDrive\Escritorio\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.pdb
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\JuanPC\Desktop\Proyecto\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\susalud18-03-2019\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\Juan Rodriguez\Downloads\proyectoUltimo09-04-19\susalud18-03-2019\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\proyectoActual21-05-2019\proyectoActual\A su salud\A su salud\Utilitarios\obj\Release\Utilitarios.pdb

@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="asusaludModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="datos_horario3">
+    <Key>
+      <PropertyRef Name="id_horario" />
+    </Key>
+    <Property Name="id_horario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_medico" Type="int" />
+    <Property Name="hora_inicio" Type="text" />
+    <Property Name="hora_final" Type="text" />
+    <Property Name="dia" Type="int" />
+  </EntityType>
+  <EntityType Name="estados_medicos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="id_medico" Type="int" Nullable="false" />
+    <Property Name="ident_medico" Type="bigint" Nullable="false" />
+    <Property Name="nombre_medico" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="apellido_medico" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="estado_agenda" Type="int" Nullable="false" />
+    <Property Name="estado_horario" Type="int" Nullable="false" />
+    <Property Name="especialidad" Type="nvarchar(max)" />
+    <Property Name="horas_semana" Type="int" />
+  </EntityType>
+  <EntityType Name="estados_pacientes">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="id_usuario" Type="int" Nullable="false" />
+    <Property Name="nombre_paciente" Type="text" Nullable="false" />
+    <Property Name="identificacion_paciente" Type="bigint" Nullable="false" />
+    <Property Name="estado_cita" Type="int" Nullable="false" />
+    <Property Name="apellido_paciente" Type="text" Nullable="false" />
+  </EntityType>
+  <EntityType Name="parametros">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="llave" Type="nvarchar(max)" />
+    <Property Name="valor" Type="int" />
+    <Property Name="session" Type="nvarchar(max)" />
+    <Property Name="last_modified" Type="datetime" />
+  </EntityType>
+  <EntityType Name="pqrs">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="tipo_mensaje" Type="text" Nullable="false" />
+    <Property Name="mensaje" Type="text" Nullable="false" />
+    <Property Name="responder_mensaje" Type="text" />
+    <Property Name="nombres" Type="text" Nullable="false" />
+    <Property Name="apellidos" Type="text" Nullable="false" />
+    <Property Name="correo" Type="text" Nullable="false" />
+    <Property Name="session" Type="text" Nullable="false" />
+    <Property Name="id_usuario" Type="int" Nullable="false" />
+    <Property Name="estado" Type="int" Nullable="false" />
+    <Property Name="last_modified" Type="datetime2" Precision="7" />
+  </EntityType>
+  <EntityType Name="controles">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="control" Type="text" />
+    <Property Name="idioma_id" Type="int" />
+    <Property Name="formulario_id" Type="int" />
+    <Property Name="texto" Type="text" />
+  </EntityType>
+  <EntityType Name="formulario">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="text" />
+    <Property Name="url" Type="text" />
+  </EntityType>
+  <EntityType Name="idioma">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="text" />
+    <Property Name="terminacion" Type="text" />
+  </EntityType>
+  <EntityType Name="agenda_medico">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="medico_id" Type="bigint" />
+    <Property Name="fecha_inicio" Type="datetime" />
+    <Property Name="fecha_fin" Type="datetime" />
+    <Property Name="usuario_id" Type="int" />
+    <Property Name="nombre_medico" Type="text" />
+    <Property Name="especialidad" Type="nvarchar(max)" />
+    <Property Name="apellido_medico" Type="text" />
+    <Property Name="session" Type="text" />
+    <Property Name="last_modified" Type="datetime" />
+  </EntityType>
+  <EntityType Name="cita_medicas">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_medico" Type="int" Nullable="false" />
+    <Property Name="nombre_medico" Type="text" Nullable="false" />
+    <Property Name="apellido_medico" Type="text" Nullable="false" />
+    <Property Name="especialidad" Type="text" Nullable="false" />
+    <Property Name="hora_inicio" Type="datetime" Nullable="false" />
+    <Property Name="hora_fin" Type="datetime" Nullable="false" />
+    <Property Name="id_paciente" Type="int" Nullable="false" />
+    <Property Name="nombre_paciente" Type="text" Nullable="false" />
+    <Property Name="estado_cita" Type="int" Nullable="false" />
+    <Property Name="documento" Type="int" Nullable="false" />
+    <Property Name="apellido_paciente" Type="text" />
+    <Property Name="session" Type="text" />
+    <Property Name="last_modified" Type="datetime" />
+  </EntityType>
+  <EntityType Name="especialidades">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="nvarchar(max)" />
+    <Property Name="session" Type="text" />
+    <Property Name="last_modified" Type="datetime" />
+  </EntityType>
+  <EntityType Name="historia_clinica">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre_paciente" Type="text" Nullable="false" />
+    <Property Name="documento_paciente" Type="int" Nullable="false" />
+    <Property Name="motivo_consulta" Type="text" Nullable="false" />
+    <Property Name="alergias" Type="text" />
+    <Property Name="cirugias" Type="text" />
+    <Property Name="altura" Type="int" Nullable="false" />
+    <Property Name="peso" Type="int" Nullable="false" />
+    <Property Name="observacion_piel" Type="text" />
+    <Property Name="observacion_respiracion" Type="text" />
+    <Property Name="observacion_boca" Type="text" />
+    <Property Name="diagnostico" Type="text" Nullable="false" />
+    <Property Name="apellido_paciente" Type="text" />
+    <Property Name="nombre_medico" Type="text" Nullable="false" />
+    <Property Name="especialidad" Type="text" Nullable="false" />
+    <Property Name="apellido_medico" Type="text" Nullable="false" />
+    <Property Name="id_medico" Type="int" Nullable="false" />
+    <Property Name="id_paciente" Type="int" Nullable="false" />
+    <Property Name="fecha_atencion" Type="datetime" Nullable="false" />
+    <Property Name="asignar_especialista" Type="nvarchar(max)" />
+    <Property Name="estado" Type="int" />
+    <Property Name="session" Type="text" />
+    <Property Name="last_modified" Type="datetime" />
+  </EntityType>
+  <EntityType Name="auditoria">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fecha" Type="datetime" Nullable="false" />
+    <Property Name="accion" Type="varchar" MaxLength="100" />
+    <Property Name="schema" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="tabla" Type="varchar" MaxLength="200" />
+    <Property Name="session" Type="text" Nullable="false" />
+    <Property Name="user_bd" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="data" Type="ntext" Nullable="false" />
+    <Property Name="pk" Type="text" Nullable="false" />
+  </EntityType>
+  <EntityType Name="autenication">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_id" Type="int" />
+    <Property Name="ip" Type="varchar" MaxLength="100" />
+    <Property Name="mac" Type="varchar" MaxLength="100" />
+    <Property Name="fecha_inicio" Type="datetime" />
+    <Property Name="session" Type="nvarchar(max)" />
+    <Property Name="fecha_fin" Type="datetime" />
+  </EntityType>
+  <EntityType Name="servicios_seguridad">
+    <Key>
+      <PropertyRef Name="id_cliente" />
+    </Key>
+    <Property Name="id_cliente" Type="int" Nullable="false" />
+    <Property Name="nombre_cliente" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="clave_cliente" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="token_generado" Type="nvarchar(max)" />
+    <Property Name="fecha_vigencia" Type="datetime" />
+    <Property Name="token_seguridad" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="roles">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'asusalud.usuarios.seguridad' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="seguridad">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_user" Type="bigint" />
+    <Property Name="cantidad_sesiones" Type="int" />
+    <Property Name="sesiones_activas" Type="int" />
+    <Property Name="intentos_erroneos" Type="int" />
+    <Property Name="maximo_intentos" Type="int" />
+    <Property Name="estado" Type="int" />
+    <Property Name="session" Type="text" />
+    <Property Name="last_modified" Type="datetime" />
+    <Property Name="fecha_bloqueo" Type="datetime" />
+  </EntityType>
+  <EntityType Name="token_repureacion_usuario">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_id" Type="bigint" />
+    <Property Name="token" Type="nvarchar(max)" />
+    <Property Name="fecha_creado" Type="datetime" />
+    <Property Name="fecha_vigencia" Type="datetime" />
+  </EntityType>
+  <EntityType Name="usuarios">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="apellidos" Type="nvarchar(max)" />
+    <Property Name="nombres" Type="nvarchar(max)" />
+    <Property Name="identificacion" Type="bigint" />
+    <Property Name="email" Type="nvarchar(max)" />
+    <Property Name="clave" Type="nvarchar(max)" />
+    <Property Name="id_rol" Type="int" />
+    <Property Name="session" Type="text" />
+    <Property Name="estado" Type="int" />
+    <Property Name="last_modified" Type="datetime" />
+    <Property Name="especialidad" Type="text" />
+    <Property Name="foto" Type="text" />
+    <Property Name="url" Type="text" />
+  </EntityType>
+  <Association Name="controles_formulario_id_fkey">
+    <End Role="formulario" Type="Self.formulario" Multiplicity="0..1" />
+    <End Role="controles" Type="Self.controles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="formulario">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="controles">
+        <PropertyRef Name="formulario_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="controles_idioma_id_fkey">
+    <End Role="idioma" Type="Self.idioma" Multiplicity="0..1" />
+    <End Role="controles" Type="Self.controles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="idioma">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="controles">
+        <PropertyRef Name="idioma_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_roles_usuarios">
+    <End Role="roles" Type="Self.roles" Multiplicity="0..1" />
+    <End Role="usuarios" Type="Self.usuarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="roles">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="usuarios">
+        <PropertyRef Name="id_rol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_usuarios_token">
+    <End Role="usuarios" Type="Self.usuarios" Multiplicity="0..1" />
+    <End Role="token_repureacion_usuario" Type="Self.token_repureacion_usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="usuarios">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="token_repureacion_usuario">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="asusaludModelStoreContainer">
+    <EntitySet Name="datos_horario3" EntityType="Self.datos_horario3" Schema="administrador" store:Type="Tables" />
+    <EntitySet Name="estados_medicos" EntityType="Self.estados_medicos" Schema="administrador" store:Type="Tables" />
+    <EntitySet Name="estados_pacientes" EntityType="Self.estados_pacientes" Schema="administrador" store:Type="Tables" />
+    <EntitySet Name="parametros" EntityType="Self.parametros" Schema="administrador" store:Type="Tables" />
+    <EntitySet Name="pqrs" EntityType="Self.pqrs" Schema="administrador" store:Type="Tables" />
+    <EntitySet Name="controles" EntityType="Self.controles" Schema="idioma" store:Type="Tables" />
+    <EntitySet Name="formulario" EntityType="Self.formulario" Schema="idioma" store:Type="Tables" />
+    <EntitySet Name="idioma" EntityType="Self.idioma" Schema="idioma" store:Type="Tables" />
+    <EntitySet Name="agenda_medico" EntityType="Self.agenda_medico" Schema="medico" store:Type="Tables" />
+    <EntitySet Name="cita_medicas" EntityType="Self.cita_medicas" Schema="medico" store:Type="Tables" />
+    <EntitySet Name="especialidades" EntityType="Self.especialidades" Schema="medico" store:Type="Tables" />
+    <EntitySet Name="historia_clinica" EntityType="Self.historia_clinica" Schema="medico" store:Type="Tables" />
+    <EntitySet Name="auditoria" EntityType="Self.auditoria" Schema="security" store:Type="Tables" />
+    <EntitySet Name="autenication" EntityType="Self.autenication" Schema="security" store:Type="Tables" />
+    <EntitySet Name="servicios_seguridad" EntityType="Self.servicios_seguridad" Schema="security" store:Type="Tables" />
+    <EntitySet Name="roles" EntityType="Self.roles" Schema="usuarios" store:Type="Tables" />
+    <EntitySet Name="token_repureacion_usuario" EntityType="Self.token_repureacion_usuario" Schema="usuarios" store:Type="Tables" />
+    <EntitySet Name="usuarios" EntityType="Self.usuarios" Schema="usuarios" store:Type="Tables" />
+    <EntitySet Name="seguridad" EntityType="Self.seguridad" store:Type="Tables" store:Schema="usuarios">
+      <DefiningQuery>SELECT 
+    [seguridad].[id] AS [id], 
+    [seguridad].[id_user] AS [id_user], 
+    [seguridad].[cantidad_sesiones] AS [cantidad_sesiones], 
+    [seguridad].[sesiones_activas] AS [sesiones_activas], 
+    [seguridad].[intentos_erroneos] AS [intentos_erroneos], 
+    [seguridad].[maximo_intentos] AS [maximo_intentos], 
+    [seguridad].[estado] AS [estado], 
+    [seguridad].[session] AS [session], 
+    [seguridad].[last_modified] AS [last_modified], 
+    [seguridad].[fecha_bloqueo] AS [fecha_bloqueo]
+    FROM [usuarios].[seguridad] AS [seguridad]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="controles_formulario_id_fkey" Association="Self.controles_formulario_id_fkey">
+      <End Role="formulario" EntitySet="formulario" />
+      <End Role="controles" EntitySet="controles" />
+    </AssociationSet>
+    <AssociationSet Name="controles_idioma_id_fkey" Association="Self.controles_idioma_id_fkey">
+      <End Role="idioma" EntitySet="idioma" />
+      <End Role="controles" EntitySet="controles" />
+    </AssociationSet>
+    <AssociationSet Name="fk_roles_usuarios" Association="Self.fk_roles_usuarios">
+      <End Role="roles" EntitySet="roles" />
+      <End Role="usuarios" EntitySet="usuarios" />
+    </AssociationSet>
+    <AssociationSet Name="fk_usuarios_token" Association="Self.fk_usuarios_token">
+      <End Role="usuarios" EntitySet="usuarios" />
+      <End Role="token_repureacion_usuario" EntitySet="token_repureacion_usuario" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,12 @@
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\Utilitarios\obj\Release\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\obj\Release\Utilitarios.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\Juan Rodriguez\Desktop\escritorio\WebServiceAsuSalud\Utilitarios\obj\Release\Utilitarios.pdb

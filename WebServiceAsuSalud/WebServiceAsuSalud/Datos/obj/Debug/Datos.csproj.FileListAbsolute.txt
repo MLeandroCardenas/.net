@@ -1,0 +1,2 @@
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\WebServiceAsuSalud\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Juan Rodriguez\Desktop\WebServiceAsuSalud\WebServiceAsuSalud\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache

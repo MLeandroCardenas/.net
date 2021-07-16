@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="asusaludModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="datos_horario3">
+    <Key>
+      <PropertyRef Name="id_horario" />
+    </Key>
+    <Property Name="id_horario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_medico" Type="Int32" />
+    <Property Name="hora_inicio" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="hora_final" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="dia" Type="Int32" />
+  </EntityType>
+  <EntityType Name="controles">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="control" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="idioma_id" Type="Int32" />
+    <Property Name="formulario_id" Type="Int32" />
+    <Property Name="texto" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="formulario" Relationship="Self.controles_formulario_id_fkey" FromRole="controles" ToRole="formulario" />
+    <NavigationProperty Name="idioma" Relationship="Self.controles_idioma_id_fkey" FromRole="controles" ToRole="idioma" />
+  </EntityType>
+  <EntityType Name="formulario">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="url" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="controles" Relationship="Self.controles_formulario_id_fkey" FromRole="formulario" ToRole="controles" />
+  </EntityType>
+  <EntityType Name="idioma">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="terminacion" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="controles" Relationship="Self.controles_idioma_id_fkey" FromRole="idioma" ToRole="controles" />
+  </EntityType>
+  <EntityType Name="agenda_medico">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="medico_id" Type="Int64" />
+    <Property Name="fecha_inicio" Type="DateTime" Precision="3" />
+    <Property Name="fecha_fin" Type="DateTime" Precision="3" />
+    <Property Name="usuario_id" Type="Int32" />
+    <Property Name="nombre_medico" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="especialidad" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="apellido_medico" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="session" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="last_modified" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="cita_medicas">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_medico" Type="Int32" Nullable="false" />
+    <Property Name="nombre_medico" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="apellido_medico" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="especialidad" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="hora_inicio" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="hora_fin" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="id_paciente" Type="Int32" Nullable="false" />
+    <Property Name="nombre_paciente" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="estado_cita" Type="Int32" Nullable="false" />
+    <Property Name="documento" Type="Int32" Nullable="false" />
+    <Property Name="apellido_paciente" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="session" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="last_modified" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="especialidades">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="session" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="last_modified" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="historia_clinica">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre_paciente" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="documento_paciente" Type="Int32" Nullable="false" />
+    <Property Name="motivo_consulta" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="alergias" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="cirugias" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="altura" Type="Int32" Nullable="false" />
+    <Property Name="peso" Type="Int32" Nullable="false" />
+    <Property Name="observacion_piel" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="observacion_respiracion" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="observacion_boca" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="diagnostico" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="apellido_paciente" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="nombre_medico" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="especialidad" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="apellido_medico" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id_medico" Type="Int32" Nullable="false" />
+    <Property Name="id_paciente" Type="Int32" Nullable="false" />
+    <Property Name="fecha_atencion" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="asignar_especialista" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="estado" Type="Int32" />
+    <Property Name="session" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="last_modified" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="auditoria">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="accion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="schema" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tabla" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="session" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="user_bd" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="data" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="pk" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="autenication">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="user_id" Type="Int32" />
+    <Property Name="ip" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="mac" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_inicio" Type="DateTime" Precision="3" />
+    <Property Name="session" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="fecha_fin" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="roles">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="usuarios" Relationship="asusaludModel.fk_roles_usuarios" FromRole="roles" ToRole="usuarios" />
+  </EntityType>
+  <EntityType Name="seguridad">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_user" Type="Int64" />
+    <Property Name="cantidad_sesiones" Type="Int32" />
+    <Property Name="sesiones_activas" Type="Int32" />
+    <Property Name="intentos_erroneos" Type="Int32" />
+    <Property Name="maximo_intentos" Type="Int32" />
+    <Property Name="estado" Type="Int32" />
+    <Property Name="session" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="last_modified" Type="DateTime" Precision="3" />
+    <Property Name="fecha_bloqueo" Type="DateTime" Precision="3" />
+  </EntityType>
+  <Association Name="controles_formulario_id_fkey">
+    <End Role="formulario" Type="Self.formulario" Multiplicity="0..1" />
+    <End Role="controles" Type="Self.controles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="formulario">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="controles">
+        <PropertyRef Name="formulario_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="controles_idioma_id_fkey">
+    <End Role="idioma" Type="Self.idioma" Multiplicity="0..1" />
+    <End Role="controles" Type="Self.controles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="idioma">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="controles">
+        <PropertyRef Name="idioma_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="asusaludEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="datos_horario3" EntityType="Self.datos_horario3" />
+    <EntitySet Name="controles" EntityType="Self.controles" />
+    <EntitySet Name="formulario" EntityType="Self.formulario" />
+    <EntitySet Name="idioma" EntityType="Self.idioma" />
+    <EntitySet Name="agenda_medico" EntityType="Self.agenda_medico" />
+    <EntitySet Name="cita_medicas" EntityType="Self.cita_medicas" />
+    <EntitySet Name="especialidades" EntityType="Self.especialidades" />
+    <EntitySet Name="historia_clinica" EntityType="Self.historia_clinica" />
+    <EntitySet Name="auditoria" EntityType="Self.auditoria" />
+    <EntitySet Name="autenication" EntityType="Self.autenication" />
+    <EntitySet Name="roles" EntityType="Self.roles" />
+    <EntitySet Name="seguridad" EntityType="Self.seguridad" />
+    <AssociationSet Name="controles_formulario_id_fkey" Association="Self.controles_formulario_id_fkey">
+      <End Role="formulario" EntitySet="formulario" />
+      <End Role="controles" EntitySet="controles" />
+    </AssociationSet>
+    <AssociationSet Name="controles_idioma_id_fkey" Association="Self.controles_idioma_id_fkey">
+      <End Role="idioma" EntitySet="idioma" />
+      <End Role="controles" EntitySet="controles" />
+    </AssociationSet>
+    <EntitySet Name="token_repureacion_usuario" EntityType="asusaludModel.token_repureacion_usuario" />
+    <EntitySet Name="usuarios" EntityType="asusaludModel.usuarios" />
+    <AssociationSet Name="fk_roles_usuarios" Association="asusaludModel.fk_roles_usuarios">
+      <End Role="roles" EntitySet="roles" />
+      <End Role="usuarios" EntitySet="usuarios" />
+    </AssociationSet>
+    <AssociationSet Name="fk_usuarios_token" Association="asusaludModel.fk_usuarios_token">
+      <End Role="usuarios" EntitySet="usuarios" />
+      <End Role="token_repureacion_usuario" EntitySet="token_repureacion_usuario" />
+    </AssociationSet>
+    <EntitySet Name="estados_pacientes" EntityType="asusaludModel.estados_pacientes" />
+    <EntitySet Name="estados_medicos" EntityType="asusaludModel.estados_medicos" />
+    <EntitySet Name="parametros" EntityType="asusaludModel.parametros" />
+    <EntitySet Name="pqrs" EntityType="asusaludModel.pqrs" />
+    <EntitySet Name="servicios_seguridad" EntityType="asusaludModel.servicios_seguridad" />
+  </EntityContainer>
+  <EntityType Name="token_repureacion_usuario">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="user_id" Type="Int64" />
+    <Property Name="token" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="fecha_creado" Type="DateTime" Precision="3" />
+    <Property Name="fecha_vigencia" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="usuarios" Relationship="asusaludModel.fk_usuarios_token" FromRole="token_repureacion_usuario" ToRole="usuarios" />
+  </EntityType>
+  <EntityType Name="usuarios">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="apellidos" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="nombres" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="identificacion" Type="Int64" />
+    <Property Name="email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="clave" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="id_rol" Type="Int32" />
+    <Property Name="session" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="estado" Type="Int32" />
+    <Property Name="last_modified" Type="DateTime" Precision="3" />
+    <Property Name="especialidad" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="foto" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="url" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="roles" Relationship="asusaludModel.fk_roles_usuarios" FromRole="usuarios" ToRole="roles" />
+    <NavigationProperty Name="token_repureacion_usuario" Relationship="asusaludModel.fk_usuarios_token" FromRole="usuarios" ToRole="token_repureacion_usuario" />
+  </EntityType>
+  <Association Name="fk_roles_usuarios">
+    <End Type="asusaludModel.roles" Role="roles" Multiplicity="0..1" />
+    <End Type="asusaludModel.usuarios" Role="usuarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="roles">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="usuarios">
+        <PropertyRef Name="id_rol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_usuarios_token">
+    <End Type="asusaludModel.usuarios" Role="usuarios" Multiplicity="0..1" />
+    <End Type="asusaludModel.token_repureacion_usuario" Role="token_repureacion_usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="usuarios">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="token_repureacion_usuario">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="ComplexType1" />
+  <EntityType Name="estados_pacientes">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="id_usuario" Type="Int32" Nullable="false" />
+    <Property Name="nombre_paciente" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="identificacion_paciente" Type="Int64" Nullable="false" />
+    <Property Name="estado_cita" Type="Int32" Nullable="false" />
+    <Property Name="apellido_paciente" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="estados_medicos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="id_medico" Type="Int32" Nullable="false" />
+    <Property Name="ident_medico" Type="Int64" Nullable="false" />
+    <Property Name="nombre_medico" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="apellido_medico" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="estado_agenda" Type="Int32" Nullable="false" />
+    <Property Name="estado_horario" Type="Int32" Nullable="false" />
+    <Property Name="especialidad" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="horas_semana" Type="Int32" />
+  </EntityType>
+  <EntityType Name="parametros">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="llave" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="valor" Type="Int32" />
+    <Property Name="session" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="last_modified" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="pqrs">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tipo_mensaje" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="mensaje" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="responder_mensaje" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="nombres" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="apellidos" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="correo" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="session" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="id_usuario" Type="Int32" Nullable="false" />
+    <Property Name="estado" Type="Int32" Nullable="false" />
+    <Property Name="last_modified" Type="DateTime" Precision="7" />
+  </EntityType>
+  <EntityType Name="servicios_seguridad">
+    <Key>
+      <PropertyRef Name="id_cliente" />
+    </Key>
+    <Property Name="id_cliente" Type="Int32" Nullable="false" />
+    <Property Name="nombre_cliente" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="clave_cliente" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="token_generado" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="fecha_vigencia" Type="DateTime" Precision="3" />
+    <Property Name="token_seguridad" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>
